@@ -1,4 +1,4 @@
-/// testest
+///
 import chalk from 'chalk'
 
 if (myConstantVariable === "Hello World") {
