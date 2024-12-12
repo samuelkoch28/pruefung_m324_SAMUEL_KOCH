@@ -1,1 +1,1 @@
-# pruefung_m324_SAMUEL_KOCH
+# Prüfung M324
